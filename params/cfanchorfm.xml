@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="fieldparams">
+		<fieldset name="fieldparams">
+			<field
+				name="anchorfmstyles"
+				type="textarea"
+        default="width:100%; height: auto;"
+				label="PLG_FIELDS_CFANCHORFM_PARAMS_STYLE_LABEL"
+				description="PLG_FIELDS_CFANCHORFM_PARAMS_STYLE_DESCRIPTION"
+			/>
+		</fieldset>
+	</fields>
+</form>
