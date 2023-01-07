@@ -18,6 +18,9 @@ To integrate the podcast in the article you need to enter the id of the podcast:
 ### Version 1.0.0 [2019-11-20]
 * **[Added]** Iframe option whith customization CSS Style
 
+### Version 1.1.0 [2023-01-07]
+* **[Added]** Joomla 4 compatibility
+
 * * *
 
 ## Copyright & License
